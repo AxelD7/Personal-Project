@@ -7,20 +7,25 @@ body{
 
 #Openingstatement {
   Background-color:#d81159;
+  border-style:solid;
 }
 
 #Keyskills {
   textalign:left;
+  border-style:solid;
 }  
 
 #Generalskills {
   background-color:#d81159;
   text-align:center;
+  border-style:solid;
 }
 
 #Career {
   margin-left:33%;
-  margin-right:33
+  margin-right:33%;
+  border-style:solid;
+   background-color:#d81159;
 }
 
 .Row  {
@@ -31,10 +36,11 @@ body{
     table-layout:fixed;
     border-spacing:10px;
 }
-.Column
-{
+
+.Column  {
     display:table-cell;
     background-color:#d81159;
+  border-style:solid;
 }
 
 #Firstname {
@@ -54,6 +60,17 @@ body{
     height:300px;
 }
 
-#Certifications {
+#Education {
   text-align:center;
+  background-color:#d81159;
+  margin-left:35%;
+  margin-right:35%;
 }
+
+#Employment {
+  background-color:#d81159;
+  margin-left:35%;
+  margin-right:35%;
+}
+
+#
