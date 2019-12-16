@@ -1,6 +1,8 @@
 body{
   background-color:#8F2D56;
   font-family: 'Sulphur Point', sans-serif;
+  text-align:center;
+  list-style-position: inside;
 }
 
 #Openingstatement {
@@ -19,14 +21,21 @@ body{
 .Row
 {
     text-align:center;
-    list-style-position: inside;
-    display: table;
-    width: 100%;
-    table-layout: fixed;
-    border-spacing: 10px;
+    list-style-position:inside;
+    display:table;
+    width:100%;
+    table-layout:fixed;
+    border-spacing:10px;
 }
 .Column
 {
-    display: table-cell;
-    background-color: #d81159;
+    display:table-cell;
+    background-color:#d81159;
+}
+#message {
+  height:300px;
+}
+
+#Certifications {
+  text-align:center;
 }
