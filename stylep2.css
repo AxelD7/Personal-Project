@@ -18,8 +18,12 @@ body{
   text-align:center;
 }
 
-.Row
-{
+#Career {
+  margin-left:33%;
+  margin-right:33
+}
+
+.Row  {
     text-align:center;
     list-style-position:inside;
     display:table;
@@ -32,8 +36,22 @@ body{
     display:table-cell;
     background-color:#d81159;
 }
-#message {
-  height:300px;
+
+#Firstname {
+    width:200px;
+}
+
+#Lastname {
+    width:200px;
+}
+
+#Email {
+    width:200px;
+}
+
+#Message {
+    width:300px;
+    height:300px;
 }
 
 #Certifications {
