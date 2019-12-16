@@ -24,8 +24,10 @@ body{
 #Career {
   margin-left:33%;
   margin-right:33%;
+  margin-bottom:10px;
   border-style:solid;
    background-color:#d81159;
+  
 }
 
 .Row  {
@@ -65,12 +67,13 @@ body{
   background-color:#d81159;
   margin-left:35%;
   margin-right:35%;
+  margin-bottom:10px;
+  border-style:solid;
 }
 
 #Employment {
   background-color:#d81159;
   margin-left:35%;
   margin-right:35%;
+  border-style:solid;
 }
-
-#
